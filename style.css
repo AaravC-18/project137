@@ -1,0 +1,23 @@
+body
+{
+    background-color: bisque;
+}
+
+#heading
+{
+    color:brown;
+    font-size:50px;
+    padding: 10px;
+    margin:10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a
+{
+    background-color:rgb(114, 0, 0);
+    font-size:30px;
+    color:burlywood;
+    padding:10px;
+    border-radius: 400%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
